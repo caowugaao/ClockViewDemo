@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockView">
+        <attr name="outLineWidth" format="dimension|reference"/>
+        <attr name="outLineColor" format="color|reference"/>
+        <attr name="scaleLineColor" format="color|reference"/>
+        <attr name="hourPointerColor" format="color|reference"/>
+        <attr name="minutePointerColor" format="color|reference"/>
+        <attr name="secondPointerColor" format="color|reference"/>
+        <attr name="centerCircleRadius" format="dimension|reference"/>
+        <attr name="centerCircleColor" format="color|reference"/>
+        <attr name="outLineScaleLinePadding" format="dimension|reference"/>
+        <attr name="thickScaleLineLength" format="dimension|reference"/>
+        <attr name="normalScaleLineLength" format="dimension|reference"/>
+        <attr name="hourTextSize" format="dimension|reference"/>
+        <attr name="hourTextColor" format="color|reference"/>
+    </declare-styleable>
+</resources>
